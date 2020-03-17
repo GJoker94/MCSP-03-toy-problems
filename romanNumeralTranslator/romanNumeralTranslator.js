@@ -27,5 +27,14 @@ var DIGIT_VALUES = {
 };
 
 var translateRomanNumeral = function(romanNumeral) {
-  // TODO: Implement me!
+  //let roman = ''
+  //I:roman numeral
+  //O:numbers
+  //X =small = After subtractive OP , L=large , X =small = Before 1 time only
+  //non-string = null
+  //'something' = roman Numeral
+  for(let DIGIT_VALUES in obj){
+    if()
+  
+  };
 };
